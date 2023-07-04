@@ -1,0 +1,7 @@
+Gender,Age,Language,Opinion,Sentiment
+Male,25,English,Good,Neutral
+Male,21,English,Great,positive
+Male,24,English,I hated it,Negative
+Male,27,English,It is good,Neutral
+Female,28,Hindi,It is fine,Neutral
+Female,27,English,I loved it,positive
